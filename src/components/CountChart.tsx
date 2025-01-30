@@ -33,7 +33,6 @@ const CountChart = () => {
                 <h1 className='text-lg font-semibold'>Students</h1>
                 <Image src='/moreDark.png' alt='' width={20} height={20}/>
             </div>
-            <div></div>
             <div className='relative w-full h-[75%]'>
                 <ResponsiveContainer width="100%" height="100%">
                     <RadialBarChart cx="50%" cy="50%" innerRadius="40%" outerRadius="100%" barSize={32} data={data}>
