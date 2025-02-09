@@ -35,7 +35,6 @@ const AdminPage = () => {
                 <Announcements/>
 
             </div>
-            <div className=''></div>
         </div>
     </div>)
 }
